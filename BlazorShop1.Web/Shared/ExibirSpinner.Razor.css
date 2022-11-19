@@ -1,0 +1,16 @@
+﻿.load {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    color: blue;
+}
+.load1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    color: blue;
+}
